@@ -1,0 +1,2 @@
+# godscoin
+Godscoin
